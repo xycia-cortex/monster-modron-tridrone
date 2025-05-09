@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-modron-tridrone
+  x-cortex-tag: monster-modron-tridrone
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: construct
+    challenge_rating: 0.5
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-modron-tridrone
+      alias: github-token-test
